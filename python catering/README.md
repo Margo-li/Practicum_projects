@@ -1,6 +1,6 @@
 # Изучение рынка заведений общественного питания Москвы
 
-[HTML](https://github.com/aq2003/Portfolio/blob/main/Gold%20Recovery/P9_Portfolio.html) 
+[HTML](https://github.com/Margo-li/Practicum_projects/blob/main/python%20catering/public%20catering.html) 
 
 ## Описание проекта
 
