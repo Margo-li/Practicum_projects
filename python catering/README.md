@@ -10,5 +10,5 @@
 
 - **python**
 - **pandas**
-- **numpy**
-- **scipy**
+- **seaborn**
+- **phik**
