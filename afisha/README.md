@@ -1,8 +1,8 @@
 # Исследовательский анализ данных сервиса Яндекс Афиша. 
 
-[ipynb](https://github.com/Margo-li/Practicum_projects/blob/main/AB%20testing/AB.ipynb) 
+[ipynb](https://github.com/Margo-li/Practicum_projects/blob/main/afisha/afisha.ipynb) 
 
-[HTML](https://github.com/Margo-li/Practicum_projects/blob/main/AB%20testing/AB.html) 
+[HTML](https://github.com/Margo-li/Practicum_projects/blob/main/afisha/afisha.html) 
 
 В ходе работы требуется сделать выводы об изменении пользовательских предпочтений и популярности событий осенью 2024 года, а также проверить гипотезу о разнице в поведении пользователей с мобильных и стационарных устройств. 
 
