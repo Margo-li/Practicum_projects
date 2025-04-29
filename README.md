@@ -10,4 +10,3 @@
 
 ## 🔗 Другие ресурсы
 - [Резюме](https://novorossiysk.hh.ru/resume/3f00a07aff0d68159e0039ed1f6c6552514f37)
-- [GitHub Profile](https://github.com/yourprofile)
