@@ -1,8 +1,8 @@
 # Разработка A/B-тестирования и анализ результатов
 
-[ipynb](https://github.com/Margo-li/Practicum_projects/blob/main/python%20catering/public%20catering.ipynb) 
+[ipynb](https://github.com/Margo-li/Practicum_projects/blob/main/AB%20testing/AB.ipynb) 
 
-[HTML](https://github.com/Margo-li/Practicum_projects/blob/main/python%20catering/public%20catering.html) 
+[HTML](https://github.com/Margo-li/Practicum_projects/blob/main/AB%20testing/AB.html) 
 
 Компания разрабатывает развлекательное приложение с функцией «бесконечной» ленты. В приложении существует две модели монетизации: первая — ежемесячная платная подписка, которая позволяет пользователям смотреть ленту без рекламы, вторая — демонстрация рекламы для пользователей, которые ещё не оформили подписку.
 
